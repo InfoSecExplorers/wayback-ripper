@@ -242,13 +242,5 @@ playwright
 
 
 
-🦅 Author
-
-
-
-Built with ❤️ by Onkar BUCHKUL 
-
-For bug bounty hunters, red teamers, and researchers.
-
 
 
