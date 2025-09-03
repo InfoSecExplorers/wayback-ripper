@@ -1,0 +1,8 @@
+requests
+aiohttp
+beautifulsoup4
+lxml
+tqdm
+colorama
+pyfiglet
+playwright
